@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rapid-being-258420",
+  "private_key_id": "private key id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nPrivate Key-----END PRIVATE KEY-----\n",
+  "client_email": "bugtracker e-mail",
+  "client_id": "client id",
+  "auth_uri": "auth",
+  "token_uri": "token",
+  "auth_provider_x509_cert_url": "certs",
+  "client_x509_cert_url": "client url"
+}
